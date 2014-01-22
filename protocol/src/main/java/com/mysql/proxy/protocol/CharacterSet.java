@@ -85,7 +85,13 @@ public enum CharacterSet
 		UTF8_GENERAL_CI;
 		
 		private int id;
+		/**
+		 * 이름
+		 */
 		private String name;
+		/**
+		 * 기본 컬렉션 여부
+		 */
 		private boolean isDefault;
 		
 	}
