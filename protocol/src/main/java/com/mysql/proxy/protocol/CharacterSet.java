@@ -85,7 +85,7 @@ public enum CharacterSet
 		UTF8_GENERAL_CI;
 		
 		/**
-		 * 컬렉션 아이디 ㅇ
+		 * 컬렉션 - 아이디
 		 */
 		private int id;
 		/**
